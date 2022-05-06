@@ -4,14 +4,17 @@
     "description": "An Extensions for a Full Stack Web Developer ",
     "publisher": "suhail-vscode-extension",
     "version": "0.0.1",
-    "icon": "./suhail.png",
+    "icon": "images/suhail.png",
+    "repository": {
+        "type": "git",
+        "url": "https://raw.githubusercontent.com/suhailroushan13/vscode-extension-pack-suhail/master/suhail.png"
+    },
     "engines": {
         "vscode": "^1.67.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    
     "extensionPack": [
         "publisher.extensionName",
         "aaron-bond.better-comments",
