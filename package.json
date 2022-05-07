@@ -1,9 +1,9 @@
 {
     "name": "suhail-vscode-extension",
-    "displayName": "Suhail Roushan VSCode Extension",
+    "displayName": "Suhail Roushan VS Code Extension",
     "description": "An Extensions for a Full Stack Web Developer ",
     "publisher": "suhail-vscode-extension",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "images/suhail.png",
     "repository": {
         "type": "git",
